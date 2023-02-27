@@ -33,7 +33,7 @@ export const DB_INIT_STRUCTURE = {
             level: 'midle',
         },
     },
-    worck: {
+    work: {
         programmer: {
             junior: [1234567892],
             midle: [1234567890],
