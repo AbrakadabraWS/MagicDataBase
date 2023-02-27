@@ -428,14 +428,14 @@ database.SET('worck/programmer', programmersLevelMidle, 'midle' );  // Обра�
             "provfession": "programmer",
             "level": "junior"
         },
-        "1234567893: {
+        "1234567893": {
             "id": 1234567893,
             "name": "Jil",
             "age": 23,
             "provfession": "analitic",
             "level": "midle"
         },
-	"1234567893: {
+	"1234567893": {
             "id": 1234567894,
             "name": "Jack",
             "age": 28,
